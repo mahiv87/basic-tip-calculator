@@ -10,4 +10,8 @@ bill_to_int = int(bill_total)
 
 tp_to_int = int(tip_percentage)
 
+percentage = tp_to_int / 100
+
 split_to_int = int(bill_split)
+
+
