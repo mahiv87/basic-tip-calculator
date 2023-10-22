@@ -14,4 +14,5 @@ percentage = tp_to_int / 100
 
 split_to_int = int(bill_split)
 
+tip = (bill_to_int * percentage) / split_to_int
 
