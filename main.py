@@ -9,3 +9,5 @@ bill_split = input("How many people will split the bill?")
 bill_to_int = int(bill_total)
 
 tp_to_int = int(tip_percentage)
+
+split_to_int = int(bill_split)
