@@ -7,3 +7,5 @@ tip_percentage = input("What percentage tip would you like to give? 10, 12, or 1
 bill_split = input("How many people will split the bill?")
 
 bill_to_int = int(bill_total)
+
+tp_to_int = int(tip_percentage)
